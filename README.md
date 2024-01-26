@@ -1,3 +1,2 @@
-# introduction_to_python_ml
-
+# Machhine Learning
 An Introduction to Machine Learning using Python.
