@@ -1,6 +1,3 @@
-# Machine Learning
-An Introduction to Machine Learning using Python.
-
 # NoteBooks
 
 - Simple Linear Regression -> Basics of Regression and Code for Simple linear
